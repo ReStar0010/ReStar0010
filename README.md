@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on learning together.
 - 📫 How to reach me 12131516stanley@gmail.com that is my Email.
 
-#I will keep updating my repository~!
+# I will keep updating my repository~!
 
 <!---
 Stanley137/Stanley137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
