@@ -9,6 +9,6 @@
 ## 📫 Contact
 
 - 📧 Email: stanley2friend@gmail.com
-- 📖 Medium: https://medium.com/@ByteJester_
+- 📖 Medium: https://medium.com/@ReStar0010
 
 ---
