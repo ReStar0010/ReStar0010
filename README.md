@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm ReStar0010(Stanley137) 👋</h1>
+<h1 align="center">Hi there, I'm ReStar0010 👋</h1>
 
 ## 🚀 About Me
 - 🎓 CS Student | Love Playing CTF && Reverse Engineering 
