@@ -4,7 +4,7 @@
 - 🎓 CS Student | Love Playing CTF && Reverse Engineering 
  
 ## 🧰 Tech Stack
-- 🔧 Languages: `C`, `Python`, 
+- 🔧 Languages: `C`, `Python`
 
 ## 📫 Contact
 
